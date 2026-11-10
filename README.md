@@ -43,7 +43,9 @@ This project processes raw transactional data spanning over **541,000+ purchase 
 
 ## 🖥️ Executive Dashboard Preview
 
-![Performance Analysis Dashboard](assets/dashboard.png)
+![Performance Analysis Dashboard]
+<img width="1327" height="745" alt="Screenshot 2026-11-08 082857" src="https://github.com/user-attachments/assets/6e53bc94-0e9f-43a2-8523-dde50d939090" />
+
 
 *The dashboard provides real-time cross-filtering across three slicers: **Month**, **Country**, and **Products**, giving leadership instant visibility into micro and macro performance drivers.*
 
